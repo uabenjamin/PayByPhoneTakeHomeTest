@@ -1,0 +1,26 @@
+.uniqueIngredientsContainer {
+    margin-top: 20px;
+}
+.uniqueIngredientsList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+}
+.title {
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.uniqueIngredient {
+    margin-left: 10px;
+    background-color: #777777;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    padding: 5px 10px;
+    color: white;
+}
+.message {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}

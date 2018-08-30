@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:300,400,500');
+html,
+body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font: 14px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    background: #f5f5f5;
+    font-weight: 300;
+}
+.appContainer {
+    padding: 0 5%;
+}
+.recipecontainer {
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.title {
+    font-size: 36px;
+    font-weight: bold;
+}
