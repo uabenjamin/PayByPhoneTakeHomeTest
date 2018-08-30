@@ -14,6 +14,8 @@ $ npm install
 $ npm start
 ```
 
+The application should be opened automatically. Project will be running at http://localhost:5000/
+
 ## Build
 
 ```
